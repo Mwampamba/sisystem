@@ -1,2 +1,0 @@
-# sis
-Student Information System
